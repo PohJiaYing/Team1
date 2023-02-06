@@ -50,4 +50,4 @@ def profitloss_function():
     
     # Write the output to a text file
     with fp_write.open(mode="w", encoding="UTF8", newline="") as file:
-            file.write(f"{output}\n")
+            file.write(f"{output}\n") 
